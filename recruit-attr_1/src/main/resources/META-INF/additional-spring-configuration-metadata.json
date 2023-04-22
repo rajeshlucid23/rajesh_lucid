@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "recruit.defaultUserPasswd",
+    "type": "java.lang.String",
+    "description": "A description for 'recruit.defaultUserPasswd'"
+  },
+  {
+    "name": "spring.jpa.hibernate.ddl-autn",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.ddl-autn'"
+  },
+  {
+    "name": "recruit.env.mode",
+    "type": "java.lang.String",
+    "description": "A description for 'recruit.env.mode'"
+  },
+  {
+    "name": "recruit.noreplyEmailAddress",
+    "type": "java.lang.String",
+    "description": "A description for 'recruit.noreplyEmailAddress'"
+  },
+  {
+    "name": "recruit.supportEmailAddress",
+    "type": "java.lang.String",
+    "description": "A description for 'recruit.supportEmailAddress'"
+  },
+  {
+    "name": "recruit.subscriptionInit",
+    "type": "java.lang.String",
+    "description": "A description for 'recruit.subscriptionInit'"
+  },
+  {
+    "name": "recruit.subscriptionInit",
+    "type": "java.lang.String",
+    "description": "A description for 'recruit.subscriptionInit'"
+  },
+  {
+    "name": "recruit.subscriptionInit",
+    "type": "java.lang.String",
+    "description": "A description for 'recruit.subscriptionInit'"
+  },
+  {
+    "name": "org.springframework.beans.factory.annotation.Autowired(required",
+    "type": "java.lang.String",
+    "description": "A description for 'org.springframework.beans.factory.annotation.Autowired(required'"
+  }
+]}
